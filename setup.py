@@ -18,9 +18,9 @@ setuptools.setup(
     install_requires=[
         'selenium==3.141.0',
         'pydrive',
-        'pathlib', 
+        'pathlib',
         'chromedriver-binary',
-        # 'geckodriver-autoinstaller',    
+        # 'geckodriver-autoinstaller',
         'google-api-python-client',
         'httplib2',
         'python-crontab',
